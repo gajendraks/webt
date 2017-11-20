@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hockey World</title>
+	<link href="hlogo.jpg" rel="icon" type="image/x-icon">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="sports.css">
+	
+</head>
+<body>
+    <div id = "first"><a id ="afirst" href="sports.html">sports.com</a></div>
+    <div style="float:right;font-size:25px;"><a id="login" href="login.php">Login</a></div>
+    <div id= "second"><p>HOME OF THE NEXT GREAT INNOVATION IN SPORTS</p></div>
+    
+    <!-- <div style="display: flex;">
+        <img id="img2" src="w3.jpg" style="padding:5px;width:fixed;"/>
+        <img id="img3" src="w3.jpg" style="padding:5px;width:fixed;"/>
+        <img id="img4" src="w3.jpg" style="padding:5px;width:fixed;"/>
+    </div>
+         -->
+    <table id="third">
+        <tr>
+            <td><div>Cricket</div></td>
+            <td><div>HOCKEY</div></td>
+            <td><div>FOOTBALL</div></td>
+        </tr>
+        <tr>
+            <td id="im"><div id="img1"><img  src="w3.jpg"/></div></td>
+            <td><div><img id="img2" src="w3.jpg"/></div></td>
+            <td><div><img id="img3" src="w3.jpg"/></div></td>
+        </tr>
+    </table>
+    
+    
+    
+    <script type="text/javascript" src="sports.js">
+        
+        
+
+
+        // var x= document.getElementById("first");
+        // x.addEventListener("mouseover",first,false);
+        // x.addEventListener("mouseleave",first1,false);
+        // var y=document.getElementById("afirst");
+        // function first(e){
+            
+        //     y.style.color="red";
+        //     console.log("hello");
+        // }
+        // function first1(e){
+            
+        //     y.style.color="white";
+        //     console.log("hello");
+        // }
+
+        // var second=document.getElementById("second");
+        // second.addEventListener("click",underline,false)
+        // function underline(){
+        //     second.children[0].style.textDecoration="underline";
+        // }
+
+        var obj = document.getElementById("img2");
+        obj.addEventListener("click",change,false);
+        function change(e){
+            obj.src="w2.jpg";
+            console.log("image");
+        }
+
+
+    
+    </script>
+</body>
+</html>

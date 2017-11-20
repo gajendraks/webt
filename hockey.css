@@ -1,0 +1,43 @@
+.menu{
+  float: right
+
+}
+
+
+.home{
+  border:1px solid black;
+  
+}
+
+a{
+  color:#66ccff;
+}
+.nav {
+  /*background-color: orange;*/
+  padding: 12px;
+
+  /* background-image: url("gradient1.jpg");
+  background-repeat: no-repeat; */
+  /*background-position: right top;*/
+  /* background-size: cover; */
+  background-color: #ff1291;
+  opacity: 0.5;
+  overflow:hidden;
+  
+}
+.nav a:hover{
+  background-color: rgb(239, 239, 247);
+  color:black;
+}
+/* .active{
+  background-color: blue;
+  color:red;
+} */
+.nav a{
+  padding:5px;
+}
+
+body{
+  background-image: url("hockeybackground.jpg");
+  /*background-size: cover;*/
+}

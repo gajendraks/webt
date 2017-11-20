@@ -1,0 +1,26 @@
+@font-face {
+    font-family: Zetafont_Florentia_ExtraLight;
+    src: url(profonts/Zetafont_Florentia_ExtraLight.otf);
+ }
+ @font-face {
+    font-family: Mona-Free;
+    src: url(profonts/Mona-Free.otf);
+ }
+body{margin:0;background-color: snow;background-image:url("sports.jpg");padding: 0;width:80%;margin-left: 5%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+
+#first{display:table;margin-left: auto;margin-right:auto;font-size: 25px;font-family:Zetafont_Florentia_ExtraLight;}
+#afirst{color:orange;font-family:Zetafont_Florentia_ExtraLight}
+#login{color:red}
+
+#second{display:table;margin-left: auto;margin-right:auto;color:white;font-family: Mona-Free;letter-spacing: 3px}
+
+#third{width:100%;margin-top:100px;}
+#third td{text-align: center;color:greenyellow;height: 50px;font-size:25px;}
+#third td img{position:relative;width:100%}
+
+#img2{width:30%}
