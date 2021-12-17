@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T16:31:27.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="oDMLpgdmpU1atj0nkGak" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T16:34:01.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="MzDVgckkOiSoBe1lJdbx" version="16.0.0" type="github">
   <diagram id="QOcQ8_TZKoedRRxjXy_7" name="Page-1">
     <mxGraphModel dx="631" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,6 +80,51 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="380" as="sourcePoint" />
             <mxPoint x="380" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-53" value="&lt;font style=&quot;font-size: 10px&quot;&gt;plugin&amp;nbsp; canister&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="430" y="80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-57" value="&lt;font style=&quot;font-size: 10px&quot;&gt;plugin&amp;nbsp; canister&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-58" value="&lt;font style=&quot;font-size: 10px&quot;&gt;plugin&amp;nbsp; canister&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-59" value="&lt;font style=&quot;font-size: 10px&quot;&gt;plugin&amp;nbsp; canister&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-60" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZqElMUgSNKFYXj_Su-V-59" target="UZqElMUgSNKFYXj_Su-V-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="230" as="sourcePoint" />
+            <mxPoint x="430" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-61" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UZqElMUgSNKFYXj_Su-V-58" target="UZqElMUgSNKFYXj_Su-V-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="486.8151618398638" y="160" as="sourcePoint" />
+            <mxPoint x="480.6524999999999" y="198.70000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-62" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZqElMUgSNKFYXj_Su-V-57" target="UZqElMUgSNKFYXj_Su-V-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="496.8151618398638" y="170" as="sourcePoint" />
+            <mxPoint x="450" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-63" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZqElMUgSNKFYXj_Su-V-53" target="UZqElMUgSNKFYXj_Su-V-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506.8151618398638" y="180" as="sourcePoint" />
+            <mxPoint x="460" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-64" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Master Canister&lt;br&gt;Replica&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="425" y="270" width="60.87" height="60.87" as="geometry" />
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-67" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=8;" edge="1" parent="1" source="UZqElMUgSNKFYXj_Su-V-64" target="UZqElMUgSNKFYXj_Su-V-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="340" as="sourcePoint" />
+            <mxPoint x="410" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
