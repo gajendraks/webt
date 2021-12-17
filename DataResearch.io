@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T17:20:48.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="RPMB0L__r6a1DopkZ9DM" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T17:25:06.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="lmp_cGR9dViWAk5NICwN" version="16.0.0" type="github">
   <diagram id="QOcQ8_TZKoedRRxjXy_7" name="Page-1">
     <mxGraphModel dx="879" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,14 +7,11 @@
         <mxCell id="UZqElMUgSNKFYXj_Su-V-2" value="&lt;font style=&quot;font-size: 2px;&quot;&gt;Consumer 1&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="170" width="20" height="38.25" as="geometry" />
         </mxCell>
-        <mxCell id="UZqElMUgSNKFYXj_Su-V-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZqElMUgSNKFYXj_Su-V-2" target="UZqElMUgSNKFYXj_Su-V-8">
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UZqElMUgSNKFYXj_Su-V-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="210" as="sourcePoint" />
-            <mxPoint x="392.9999999999999" y="190.75" as="targetPoint" />
+            <mxPoint x="290" y="189.1250000000001" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UZqElMUgSNKFYXj_Su-V-8" value="frontend canister(asset)" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="290" y="158.69" width="60.87" height="60.87" as="geometry" />
         </mxCell>
         <mxCell id="UZqElMUgSNKFYXj_Su-V-10" value="&lt;font style=&quot;font-size: 10px&quot;&gt;API Canister&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="290" y="270" width="60.87" height="60.87" as="geometry" />
@@ -156,6 +153,12 @@
         </mxCell>
         <mxCell id="UZqElMUgSNKFYXj_Su-V-84" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Master Canister&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="379.13" y="360.87" width="60.87" height="60.87" as="geometry" />
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-86" value="UI&lt;br&gt;/admin, /surveys&lt;br&gt;all the routes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="289.57" y="158.47" width="61.3" height="61.3" as="geometry" />
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-87" value="API canister will show&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="60" y="168.7" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
