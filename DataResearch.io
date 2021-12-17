@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T16:34:01.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="MzDVgckkOiSoBe1lJdbx" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-17T16:35:53.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="A8qF8QcXukCoQjk8o1Ni" version="16.0.0" type="github">
   <diagram id="QOcQ8_TZKoedRRxjXy_7" name="Page-1">
     <mxGraphModel dx="631" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -125,6 +125,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="340" as="sourcePoint" />
             <mxPoint x="410" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-69" value="&lt;span style=&quot;font-size: 10px&quot;&gt;RoleBased Auth Canister&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="159.13" y="440" width="60.87" height="60.87" as="geometry" />
+        </mxCell>
+        <mxCell id="UZqElMUgSNKFYXj_Su-V-70" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="UZqElMUgSNKFYXj_Su-V-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="470" as="sourcePoint" />
+            <mxPoint x="270" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
