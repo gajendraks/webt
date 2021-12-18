@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T19:14:13.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="gnDpCV8R6MYlt_azkdKX" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T19:17:46.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="JKeS7SD6FopbQUYUuRhc" version="16.0.0" type="github">
   <diagram id="7NAlfg4iTmrK7nSItmeB" name="Page-1">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
           <mxGeometry x="210" y="940" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pX9hVj9UVFLZUOQtLVUP-42" value="Survey meta insghts" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="300" y="940" width="70" height="70" as="geometry" />
+          <mxGeometry x="295" y="940" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pX9hVj9UVFLZUOQtLVUP-43" value="Admin Insights platform" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="940" width="70" height="70" as="geometry" />
@@ -124,8 +124,20 @@
         <mxCell id="pX9hVj9UVFLZUOQtLVUP-44" value="Notification /Email&amp;nbsp; Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="460" y="940" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-45" value="Payment Holding canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="535" y="940" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-46" value="Logging Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1020" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-47" value="Cost Estimation Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1020" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-48" value="Currently we don&#39;t know whether to add Authentication provider canister to Central canister stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="860" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-49" value="Auditing&amp;nbsp; Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1020" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
