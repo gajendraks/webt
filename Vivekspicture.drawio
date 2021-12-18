@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T19:36:40.972Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="QGWg1U6AmMDTao8Yce6W" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T19:38:16.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="1QEv-oHnH3ZR4ScrQGhE" version="16.0.0" type="github">
   <diagram id="7NAlfg4iTmrK7nSItmeB" name="Page-1">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,6 +167,9 @@
         </mxCell>
         <mxCell id="pX9hVj9UVFLZUOQtLVUP-69" value="Mapping canister(survey id to survey canisters)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="376" y="1100" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-70" value="Mapping canister(survey id to survey canisters)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1580" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
