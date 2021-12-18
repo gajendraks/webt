@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T19:00:42.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="r7EOwgRw7MpSlrxwYTS3" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T19:12:39.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="bcFr90F__9cAVRk1T-3k" version="16.0.0" type="github">
   <diagram id="7NAlfg4iTmrK7nSItmeB" name="Page-1">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,6 +96,21 @@
             <mxPoint x="400" y="460" as="sourcePoint" />
             <mxPoint x="450" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-35" value="auditing" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-36" value="survey meta&amp;nbsp; insights" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="900" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-37" value="notification services" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="530" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-40" value="Central Canister Stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="199.57" y="910" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
