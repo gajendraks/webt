@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T19:12:39.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="bcFr90F__9cAVRk1T-3k" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T19:14:13.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="gnDpCV8R6MYlt_azkdKX" version="16.0.0" type="github">
   <diagram id="7NAlfg4iTmrK7nSItmeB" name="Page-1">
     <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,6 +111,21 @@
         </mxCell>
         <mxCell id="pX9hVj9UVFLZUOQtLVUP-40" value="Central Canister Stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="199.57" y="910" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-41" value="Router and Website Hoster" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="940" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-42" value="Survey meta insghts" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="940" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-43" value="Admin Insights platform" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="940" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-44" value="Notification /Email&amp;nbsp; Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="940" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="535" y="940" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
