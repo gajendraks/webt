@@ -1,1 +1,184 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T18:34:42.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="16.0.0" etag="ZKiFIU8l-SMtNDxTruRa" type="github"><diagram id="7SwpM9wXB0jgExjuMSm_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-18T18:37:23.747Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="k0FF7YUk8uS8EX8XrZt1" version="16.0.0" type="github">
+  <diagram id="7SwpM9wXB0jgExjuMSm_" name="Page-1">
+    <mxGraphModel dx="1186" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P9mxEyRHxCTEgwODtD66-1" value="&lt;font style=&quot;font-size: 2px;&quot;&gt;Consumer 1&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="20" height="38.25" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="210" as="sourcePoint" />
+            <mxPoint x="290" y="189.1250000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-3" value="&lt;font style=&quot;font-size: 10px&quot;&gt;API Canister&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;strokeColor=#97D077;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="60.87" height="60.87" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="269.56" as="sourcePoint" />
+            <mxPoint x="320" y="219.55999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-5" value="&lt;span style=&quot;font-size: 10px&quot;&gt;payment canister&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="610" y="410" width="60.87" height="60.87" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-6" value="&lt;font style=&quot;font-size: 10px&quot;&gt;user_id to pool_canister_id&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="269.13" y="460" width="60.87" height="60.87" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-22" target="P9mxEyRHxCTEgwODtD66-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="400" as="sourcePoint" />
+            <mxPoint x="270" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-5" target="P9mxEyRHxCTEgwODtD66-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="767.5" y="400" as="sourcePoint" />
+            <mxPoint x="837.5" y="360.43499999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-9" value="&lt;span style=&quot;font-size: 10px&quot;&gt;payment canister replica&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="720" y="410" width="60.87" height="60.87" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-11" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Master Canister&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="425" y="188.7" width="60.87" height="60.87" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-11" target="P9mxEyRHxCTEgwODtD66-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="279.13" as="sourcePoint" />
+            <mxPoint x="555" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=8;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-9" target="P9mxEyRHxCTEgwODtD66-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="877.5" y="519.13" as="sourcePoint" />
+            <mxPoint x="957.5" y="499.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-14" value="&lt;font style=&quot;font-size: 10px&quot;&gt;plugin&amp;nbsp; canister&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="430" y="80" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-15" value="&lt;font style=&quot;font-size: 10px&quot;&gt;plugin&amp;nbsp; canister&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="440" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-16" value="&lt;font style=&quot;font-size: 10px&quot;&gt;plugin&amp;nbsp; canister&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-17" value="&lt;font style=&quot;font-size: 10px&quot;&gt;plugin&amp;nbsp; canister&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-17" target="P9mxEyRHxCTEgwODtD66-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="230" as="sourcePoint" />
+            <mxPoint x="430" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-16" target="P9mxEyRHxCTEgwODtD66-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="486.8151618398638" y="160" as="sourcePoint" />
+            <mxPoint x="480.6524999999999" y="198.70000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-15" target="P9mxEyRHxCTEgwODtD66-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="496.8151618398638" y="170" as="sourcePoint" />
+            <mxPoint x="450" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-14" target="P9mxEyRHxCTEgwODtD66-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="506.8151618398638" y="180" as="sourcePoint" />
+            <mxPoint x="460" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-22" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Role Based AuthProvider&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="269.13" y="370" width="60.87" height="60.87" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-22" target="P9mxEyRHxCTEgwODtD66-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="470" as="sourcePoint" />
+            <mxPoint x="270" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-24" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Cycles Estimation canister&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="494.13" y="460" width="60.87" height="60.87" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-25" value="UI&lt;br&gt;/admin, /surveys&lt;br&gt;all the routes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="289.57" y="158.47" width="61.3" height="61.3" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-26" value="returns the pool_id(master canister id) and its role to the api canister" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="50" y="310" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-26" target="P9mxEyRHxCTEgwODtD66-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="370" as="sourcePoint" />
+            <mxPoint x="430" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-28" value="Common community Storage for user&lt;br&gt;canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="188.7" width="60.87" height="60.87" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-29" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="381" y="372.72" width="87.28" height="87.28" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-30" value="&lt;span style=&quot;font-size: 10px&quot;&gt;slave Canister&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="394.21" y="388.64" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-31" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Slave Canister&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="407.37" y="408.64" width="35.43" height="35.43" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-29" target="P9mxEyRHxCTEgwODtD66-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-29" target="P9mxEyRHxCTEgwODtD66-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="294.08" as="sourcePoint" />
+            <mxPoint x="590" y="244.07999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-34" value="backup of data if difinity doesn&#39;t ensure the availability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670.8699999999999" y="208.25" as="sourcePoint" />
+            <mxPoint x="720.8699999999999" y="158.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-24" target="P9mxEyRHxCTEgwODtD66-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-37" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Global state canister for all the users&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="50" y="460" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-38" value="&lt;b&gt;Comeback again for data to be stored in master canister or comunity hosted canister or separated private data canister&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-40" value="community canisters" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-40" target="P9mxEyRHxCTEgwODtD66-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P9mxEyRHxCTEgwODtD66-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="P9mxEyRHxCTEgwODtD66-25" target="P9mxEyRHxCTEgwODtD66-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
