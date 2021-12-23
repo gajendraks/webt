@@ -1,112 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T19:58:24.883Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="hc2Olbpf4sXmFP6g5ZNf" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T20:23:33.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="_CEAph_p__FORP_ZhNC1" version="16.0.3" type="github">
   <diagram id="7NAlfg4iTmrK7nSItmeB" name="Page-1">
-    <mxGraphModel dx="1186" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="240" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-2" value="Central Canister Stack" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-2" value="Central Canister Stack" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-15" value="Public &lt;br&gt;Data Canister for a survey(for any number of surveys)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-15" value="Public &lt;br&gt;Data Canister for a survey(for any number of surveys)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-16" value="/admin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-16" value="/admin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="130" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-17" value="/survey/id" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-17" value="/survey/id" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="130" y="330" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-20" value="/survey" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-20" value="/survey" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="130" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-22" value="Private Data Canister for single survey for a user" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-22" value="Private Data Canister for single survey for a user" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="440" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-23" value="Plugin Canister service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-23" value="Plugin Canister service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="260" y="620" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-24" value="Plugin Canister service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-24" value="Plugin Canister service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="270" y="630" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-25" value="Plugin Canister service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-25" value="Plugin Canister service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="280" y="640" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-26" value="Plugin Canister service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-26" value="Plugin Canister service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="290" y="650" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="pX9hVj9UVFLZUOQtLVUP-15">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="pX9hVj9UVFLZUOQtLVUP-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="620" as="sourcePoint" />
             <mxPoint x="380" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-28" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="630" as="sourcePoint" />
             <mxPoint x="470" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="pX9hVj9UVFLZUOQtLVUP-16" target="pX9hVj9UVFLZUOQtLVUP-2">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="pX9hVj9UVFLZUOQtLVUP-16" target="pX9hVj9UVFLZUOQtLVUP-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="380" as="sourcePoint" />
             <mxPoint x="450" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-35" value="auditing" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-35" value="auditing" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="340" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-36" value="survey meta&amp;nbsp; insights" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-36" value="survey meta&amp;nbsp; insights" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="440" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-38" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="191" y="900" width="440" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-37" value="notification services" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-37" value="notification services" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="530" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-40" value="Central Canister Stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-40" value="Central Canister Stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="199.57" y="910" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-41" value="Router and Website Hoster" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-41" value="Router and Website Hoster" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="210" y="940" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-42" value="Survey meta insghts" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-42" value="Survey meta insghts" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="295" y="940" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-43" value="Admin Insights platform" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-43" value="Admin Insights platform" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="380" y="940" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-44" value="Notification /Email&amp;nbsp; Service" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-44" value="Notification /Email&amp;nbsp; Service" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="460" y="940" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-45" value="Payment Holding canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-45" value="Payment Holding canister" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="535" y="940" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-46" value="Logging Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-46" value="Logging Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="210" y="1020" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-47" value="Cost Estimation Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-47" value="Cost Estimation Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="295" y="1020" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-48" value="Currently we don&#39;t know whether to add Authentication provider canister to Central canister stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-48" value="Currently we don&#39;t know whether to add Authentication provider canister to Central canister stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="860" width="550" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-49" value="Financial Auditing&amp;nbsp; Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-49" value="Financial Auditing&amp;nbsp; Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="380" y="1020" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-50" value="Mapping canister(user to survey canisters)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-50" value="Mapping canister(user to survey canisters)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="460" y="1020" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-51" value="Cycles burning canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-51" value="Cycles burning canister" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="535" y="1020" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-52" value="..." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-52" value="..." style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="210" y="1100" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-54" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pX9hVj9UVFLZUOQtLVUP-15">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-54" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" target="pX9hVj9UVFLZUOQtLVUP-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="370" as="sourcePoint" />
             <mxPoint x="260" y="320" as="targetPoint" />
@@ -116,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-56" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.4;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pX9hVj9UVFLZUOQtLVUP-22">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-56" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.4;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="pX9hVj9UVFLZUOQtLVUP-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="380" as="sourcePoint" />
             <mxPoint x="350" y="450" as="targetPoint" />
@@ -127,10 +127,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-57" value="Private Data Canister for multiple surveys of a user" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-57" value="Private Data Canister for multiple surveys of a user" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="551" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-58" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.6;entryY=-0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="pX9hVj9UVFLZUOQtLVUP-57">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-58" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.6;entryY=-0.062;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="pX9hVj9UVFLZUOQtLVUP-57" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="390" as="sourcePoint" />
             <mxPoint x="482" y="449.03999999999996" as="targetPoint" />
@@ -141,59 +141,62 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-60" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="191" y="1450" width="430" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-61" value="Survey Canister stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-61" value="Survey Canister stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="194.57" y="1460" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-63" value="Survey Hosting canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-63" value="Survey Hosting canister" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="210" y="1500" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-65" value="Public Data Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-65" value="Public Data Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="290" y="1500" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-66" value="Shared Private Data Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-66" value="Shared Private Data Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="370" y="1500" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-67" value="NonShared Private Data Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-67" value="NonShared Private Data Canister" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="450" y="1500" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-68" value="routing canister" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-68" value="routing canister" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="210" y="1580" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-69" value="Mapping canister(survey id to survey canisters)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-69" value="Mapping canister(survey id to survey canisters)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="380" y="1100" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="194.57" y="1960" width="440" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-70" value="Mapping canister(survey id to survey canisters)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-70" value="Mapping canister(survey id to survey canisters)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="290" y="1580" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="pX9hVj9UVFLZUOQtLVUP-73">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="281" y="2035" as="sourcePoint" />
             <mxPoint x="436" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-75" value="..." style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-75" value="..." style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="295" y="1100" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-78" value="Admin Insights platform&lt;br&gt;(load balancer&lt;br&gt;/watcher)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-78" value="Admin Insights platform&lt;br&gt;(load balancer&lt;br&gt;/watcher)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="210.5" y="2000" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-79" value="Admin Insights platform&lt;br&gt;(slave servicer)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-79" value="Admin Insights platform&lt;br&gt;(slave servicer)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="339.5" y="2000" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pX9hVj9UVFLZUOQtLVUP-78" target="pX9hVj9UVFLZUOQtLVUP-79">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pX9hVj9UVFLZUOQtLVUP-78" target="pX9hVj9UVFLZUOQtLVUP-79" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="2080" as="sourcePoint" />
             <mxPoint x="440" y="2030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pX9hVj9UVFLZUOQtLVUP-81" value="Service stack for service in central stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pX9hVj9UVFLZUOQtLVUP-81" value="Service stack for service in central stack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="1970" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n1z6CaqZ88JeWrawrhV2-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); text-decoration: none; display: inline; float: none;&quot;&gt;Implement BigMap&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; text-decoration: none;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); text-decoration: none; display: inline; float: none;&quot;&gt;https://smartcontracts.org/docs/developers-guide/tutorials/scalability-cancan.html&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; text-decoration: none;&quot;&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; text-decoration: none;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); text-decoration: none; display: inline; float: none;&quot;&gt;https://github.com/dfinity/cancan&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1900" width="450" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
